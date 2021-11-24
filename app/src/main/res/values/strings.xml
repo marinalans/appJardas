@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appJardas</string>
+    <string-array name="medida_array">
+        <item>Jarda para Centimetro</item>
+        <item>Centimetro para Jarda</item>
+    </string-array>
+</resources>
